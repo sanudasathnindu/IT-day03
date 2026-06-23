@@ -26,3 +26,9 @@
     color: aliceblue;
     background-color: rgb(162, 85, 8);
   }
+
+  *{
+    background-color: rgb(195, 184, 184);
+    margin: 0;
+    padding: 0;
+  }
