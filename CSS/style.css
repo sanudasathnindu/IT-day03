@@ -21,3 +21,8 @@
     background-color: blue;
     color: white;
   }
+
+  #pg-background{
+    color: aliceblue;
+    background-color: rgb(162, 85, 8);
+  }
