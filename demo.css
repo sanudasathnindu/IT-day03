@@ -1,0 +1,30 @@
+.bg-h1{
+    
+    color: white;
+    text-align: right;
+    padding: 100px;
+    font-size: xx-large;
+    font-family: monospace;
+    letter-spacing: 5px;
+
+}
+
+body{
+    background-image: url('img/train.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.bg-h2{
+    color: aliceblue;
+    text-align: center;
+    padding left: 100px;
+    padding right: 100px;
+}
+
+#para{
+    color: azure;
+    padding: 100px;
+}
