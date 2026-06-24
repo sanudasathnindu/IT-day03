@@ -26,10 +26,9 @@
     background-color: blue;
     color: white;
     text-align: center;
+
+
     padding: 50px;
-    border: 5px;
-    border-radius: 20px;
-    border-style: double;
 
     /*padding-left: 50px;
     padding-right: 50px;
@@ -37,6 +36,12 @@
     padding-bottom: 50px;*/
 
     /*padding: 20px 50px 60px 200px;*/
+
+    border: 5px;
+    border-radius: 20px;
+    border-style: double;
+
+    margin: 50px;
 
   }
 
